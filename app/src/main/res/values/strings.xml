@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IntentApp01</string>
+    <string name="item_name">送信文字</string>
+    <string name="submit_button">送信</string>
+    <string name="received_item">受信文字</string>
 </resources>
